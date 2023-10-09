@@ -6,7 +6,6 @@
     </head>
     <body bgcolor="pink">
         <h2>CLICK THE STORIES TO MOVE UPWARD</h2>
-    
     </body>
  
 </html>
